@@ -1,3 +1,7 @@
 Make stuff for angel eyes
 
+Learn how to use dialog flow!! most important part of this whole project!
+
 V0 -----------
+Make a basic frontend part of a website for the project.
+make intents on dialog flow
